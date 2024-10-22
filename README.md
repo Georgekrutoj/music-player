@@ -2,8 +2,6 @@
 
 An example of a minimal Flet app.
 
-Алаху акбар
-
 To run the app:
 
 ```
